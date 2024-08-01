@@ -1,0 +1,8 @@
+.input-sections {
+    background-color: #131132;
+}
+
+.section-container {
+    display: flex;
+    align-items: center;
+}

@@ -1,10 +1,11 @@
 import React from "react";
-import { InfoContainer } from "./AddInfo";
+import SectionContainer from "./InputSections";
+import './App.css';
 
 export default function App() {
     return (
         <>
-            <InfoContainer />
+            <SectionContainer />
         </>
     );
 }
